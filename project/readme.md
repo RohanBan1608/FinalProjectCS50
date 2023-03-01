@@ -67,3 +67,5 @@ Hope You have enjoyed the website!
 
 To view the code of this website, go to github.com/RohanBan1608/FinalProjectCS50 . Thank You!
 
+If you want to edit the code of my website and run it on your local machine, you are free to do so.
+
